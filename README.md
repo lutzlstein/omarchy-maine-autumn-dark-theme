@@ -1,11 +1,11 @@
-# Autumn Dark — Omarchy theme
+# Maine Autumn Dark — Omarchy theme
 
-![Autumn Dark preview](preview.jpg)
+![Maine Autumn Dark preview](preview.jpg)
 
 ## Install
 
 ```
-omarchy-theme-install https://github.com/lutzlstein/omarchy-autumn-dark-theme
+omarchy-theme-install https://github.com/lutzlstein/omarchy-maine-autumn-dark-theme
 ```
 
 ## Palette
