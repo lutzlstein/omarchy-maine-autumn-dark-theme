@@ -49,7 +49,7 @@ Icons: `Yaru-blue`
 
 ## Backgrounds credits
 
-- `ChatGPT Image Oct 16, 2026, 02_35_02 PM-2.webp`: AI-generated with ChatGPT by Cory Blische, Oct 16 2026.
+- `1-starry-autumn-river-night.webp`: AI-generated with ChatGPT by Cory Blische, Oct 16 2026.
 
 The background images are released under the same MIT license as the rest of this theme.
 
