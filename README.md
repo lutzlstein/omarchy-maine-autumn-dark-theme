@@ -47,6 +47,13 @@ aether --import-blueprint https://raw.githubusercontent.com/lutzlstein/omarchy-m
 
 Icons: `Yaru-blue`
 
+## Backgrounds
+
+| | | |
+|---|---|---|
+| <a href="backgrounds/1-starry-autumn-river-night.webp"><img src="backgrounds/1-starry-autumn-river-night.webp" alt="1-starry-autumn-river-night.webp" width="260"></a><br><sub>Original source</sub> | <a href="backgrounds/2-night-time-costal-island-maine.webp"><img src="backgrounds/2-night-time-costal-island-maine.webp" alt="2-night-time-costal-island-maine.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/4-restyle-as-expressionist-broad-brush.webp"><img src="backgrounds/4-restyle-as-expressionist-broad-brush.webp" alt="4-restyle-as-expressionist-broad-brush.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |
+| <a href="backgrounds/5-bauhaus.webp"><img src="backgrounds/5-bauhaus.webp" alt="5-bauhaus.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> | <a href="backgrounds/6-same-scene-from-perspetive-forest.webp"><img src="backgrounds/6-same-scene-from-perspetive-forest.webp" alt="6-same-scene-from-perspetive-forest.webp" width="260"></a><br><sub>Made with <a href="https://github.com/lutzlstein/oma-easel">Oma Easel</a></sub> |  |
+
 ## Backgrounds credits
 
 - `1-starry-autumn-river-night.webp`: AI-generated with ChatGPT by Cory Blische, Oct 16 2026.
